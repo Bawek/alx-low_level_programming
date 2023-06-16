@@ -7,19 +7,21 @@
  */
 int main(void)
 {
-	int num;
+        int num;
 
-	for (num = 0; num <= 9; num++)
-	{
-		putchar((num % 10) + '0');
-		if (num == 9)
-			continue;
-		
-		putchar(',');
-		putchar(' ');
-	}
+        for (num = 0; num <= 9; num++)
+        {
+                putchar((num % 10) + '0');
+                if (num == 9)
+                        continue;
 
-	putchar('\n');
+                putchar(',');
+                putchar(' ');
+        }
 
-	return (0);
+        putchar('\n');
+
+        return (0);
 }
+[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccontinue;[B[B[B[B[B[B[B[B[B[B[B[B
+chmod u+x [A
