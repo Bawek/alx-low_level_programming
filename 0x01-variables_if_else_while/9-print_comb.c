@@ -22,4 +22,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-}[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[C[C[C*[B[D*except ZERO [A[D[D[D[D[D[D[D[D[D[D[Dgo[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
+}
