@@ -14,15 +14,15 @@ int main(void)
                 putchar((num % 10) + '0');
                 if (num == 9)
                         continue;
+                   putchar(',');
+                   putchar(' ');
 
-                putchar(',');
-                putchar(' ');
         }
 
         putchar('\n');
 
         return (0);
 }
-[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[  putchar(',');
-                putchar(' ');
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[D[D[D[D[Dpu[B[C[C[C[C[C[C[C[C[C[C[C[A[D[D[D[D[D[D[D[D[D[D[B[B[B[B[B[B[B[B[B
+
+[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[B[B[B[B[C[C[C[C[A[C[C[C[C[C[Ccontinue;[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
+[A[A
