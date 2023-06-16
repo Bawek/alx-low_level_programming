@@ -1,8 +1,3 @@
-/*
- * File: 0-positive_or_negative.c
- * Auth: Brennan D Baraban
- */
-
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -28,4 +23,4 @@ int main(void)
 		printf("%d is zero\n", n);
 
 	return (0);
-}[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Baweke[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
+}
