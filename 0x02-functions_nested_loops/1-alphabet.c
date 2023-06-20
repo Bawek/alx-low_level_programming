@@ -1,11 +1,14 @@
-#include "holberton.h"
+#include "main.h"
+
 void print_alphabet(void)
 {
-        char c;
+  char letter = 'a';
 
-        for (c = 'a'; c <= 'z'; c++)
-        {
-                _putchar(c);
-        }
-        _putchar('\n');
+  while (letter <= 'z')
+  {
+    _putchar(letter);
+    letter++;
+  }
+
+  _putchar('\n');
 }
